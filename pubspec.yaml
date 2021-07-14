@@ -1,0 +1,45 @@
+name: route_tracking_system
+description: University Final Year Project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.0
+
+  #External Libraries
+  google_fonts:
+  shared_preferences:
+  firebase_core:
+  firebase_auth:
+  cloud_firestore:
+  flutter_share:
+  google_maps_flutter:
+  geolocator:
+  fluttertoast:
+  location: ^4.3.0
+  flutter_polyline_points: ^1.0.0
+  dio: ^4.0.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+  fonts:
+    - family:  Myicons
+      fonts:
+        - asset: assets/Myicons.ttf

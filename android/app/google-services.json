@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "126367091535",
+    "project_id": "root-tracking-system",
+    "storage_bucket": "root-tracking-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126367091535:android:6568612774ac341e6d533a",
+        "android_client_info": {
+          "package_name": "com.ncbae.route_tracking_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126367091535-p1s5r5ergl4h03vv46nbupefedk3kijj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ncbae.route_tracking_system",
+            "certificate_hash": "578a80b481876ce4fdbbd7c0a8ef59dc3fecbcc2"
+          }
+        },
+        {
+          "client_id": "126367091535-95m8vhfo5pgevionl8vuimibve0pqcke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHn-7nZmAOchCHBk_WWOMz5i1vbG7wyZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126367091535-95m8vhfo5pgevionl8vuimibve0pqcke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
